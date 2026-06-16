@@ -25,7 +25,7 @@ This repository documents my journey through cybersecurity learning and wargame 
   - `c`: ย่อมาจาก bytes
   - `!executable`: บอกว่าไม่ต้องสิ่งนี้
 
-### Level 6 - Level 15 (15/06/2025)
+### Level 6 - Level 10 (15/06/2025)
 
 **คำสั่ง:** `find / -user bandit7 -group bandit6 -size 33c 2>/dev/null`
 - `find /`: สั่งให้ค้นหาจากไดเรกทอรีนอกสุด (Root)
