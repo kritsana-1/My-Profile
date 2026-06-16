@@ -1,6 +1,12 @@
 # My Profile
 Hi, I'm Q. I'm a Computer Science student who loves learning new things and conquering tech challenges!
 
+## 🔒 About Security
+
+This repository documents my journey through cybersecurity learning and wargame challenges. It focuses on building foundational security skills through hands-on practice with tools and Linux command-line techniques.
+
+---
+
 ## Bandit Wargame Progress
 
 ### Level 0 - Level 5
