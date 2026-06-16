@@ -1,4 +1,4 @@
-# 🌐 Web Apps & Projects Summary
+# 🌐 Web Apps Projects 
 
 ---
 
