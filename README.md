@@ -1,41 +1,51 @@
 # My Profile
 
-Hi — I'm Q, a Computer Science student who enjoys learning new things and tackling technical challenges. This repository is my personal notes and a place where I collect what I learn while practicing cybersecurity wargames and exploring other topics.
+Hi — I'm a Computer Science student and learner. This repository is my personal space for notes, exercises, and progress tracking as I explore software development, security, and automation.
 
-## What you'll find here
+## About this repository
 
-- SECURITY.md — my notes on security learning and Bandit wargame progress (commands, hints, and solutions I used while practising).
+My-Profile is primarily a documentation repository. The main focus is SECURITY.md, where I record walkthroughs, commands, and notes from hands-on security practice (for example, OverTheWire's Bandit wargame).
 
-## Security / Bandit wargame progress
+What you'll find here
 
-I use this repo to track progress on Bandit (OverTheWire) and other hands-on security exercises.
+- SECURITY.md — step-by-step notes, commands, and solutions I used while practicing security challenges.
+- This README — overview of my public projects and how to use this repo.
 
-- Level 0–5: completed (commands and walkthroughs recorded)
-- Level 6–10: in progress (notes dated 15/06/2025)
+## Projects & highlights
 
-Common commands and techniques I reference in SECURITY.md:
+A selection of public projects in my GitHub account (links point to the repositories):
 
-- `ls`, `ls -a` — list files (including hidden files)
-- `cd` — change directory
-- `find` — locate files (examples shown with `-user`, `-group`, `-size` and `2>/dev/null` to suppress errors)
-- `grep` — search for text or patterns inside files
-- `sort | uniq -u` — sort and show unique (non-duplicated) lines
-- `strings` — extract printable strings from binary files
-- `base64 -d` — decode Base64-encoded content
+- books — https://github.com/kritsana-1/books (TypeScript)
+- CRUD — https://github.com/kritsana-1/CRUD (JavaScript)
+- Data_Automation — https://github.com/kritsana-1/Data_Automation (Python)
+- ecommerce_template — https://github.com/kritsana-1/ecommerce_template (HTML)
+- LP_shop — https://github.com/kritsana-1/LP_shop (HTML)
+- pokedex-app — https://github.com/kritsana-1/pokedex-app (TypeScript)
+- Project_smart_lights — https://github.com/kritsana-1/Project_smart_lights (JavaScript)
+- rai-grow — https://github.com/kritsana-1/rai-grow (TypeScript)
+- StickerSmash-app — https://github.com/kritsana-1/StickerSmash-app (TypeScript)
 
-## How to use this repo
+Explore any of the repositories above for code, demos, or example projects.
 
-This repository is documentation-only at the moment. Clone it to read my notes and follow my progress:
+## Skills & interests
+
+- Languages: TypeScript, JavaScript, Python, HTML
+- Areas of interest: web development, automation, practical security exercises (wargames like Bandit)
+- Learning approach: build small projects, capture notes and commands, and iterate on solutions.
+
+## How to use this repository
+
+Clone the repo to read my notes and follow progress:
 
 ```bash
 git clone https://github.com/kritsana-1/My-Profile.git
 ```
 
-Open SECURITY.md to see the Bandit walkthroughs and command examples.
+Open SECURITY.md to view Bandit walkthroughs and command examples.
 
 ## Contributing
 
-This is a personal learning repository. If you have suggestions or corrections, please open an issue or a pull request and explain the change.
+This is a personal learning repository. If you have suggestions, fixes, or improvements to my notes, feel free to open an issue or submit a pull request and explain the change.
 
 ## Contact
 
@@ -43,4 +53,4 @@ Find me on GitHub: https://github.com/kritsana-1
 
 ---
 
-*Automatically created README summarizing repository contents and security notes.*
+*This README was updated to include an overview of public projects and to make it easier for visitors to find my security notes.*
